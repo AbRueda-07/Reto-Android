@@ -18,7 +18,7 @@ Este proyecto consiste en una aplicación Android sencilla: permite que el usuar
 * **Aranza** → Diseño de interfaz, estructura del proyecto, integración de funciones y documentación.
 * **IA (Gemini / Copilot / Qwen(extra))** → apoyo técnico, sugerencias de prompts, generación de código base y detección de errores.
 * **Melany** → Realizó la misma app con la IA de GitHub Copilot.
-*  Cada una nos divimos el trabajo, utilizamos los mismo prompts en los agentes, obtuvimos similares diseños.
+*  Cada una nos divimos el trabajo, utilizamos los mismo prompts en los agentes, obtuvimos similares diseños y resultados con las IAs.
 
 ---
 
