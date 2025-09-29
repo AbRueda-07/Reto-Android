@@ -9,16 +9,16 @@ Este proyecto consiste en una aplicación Android sencilla: permite que el usuar
 * **Android Studio** 
 * **Java**
 * **ConstraintLayout** → usado para diseñar una interfaz sencilla, flexible y adaptable a diferentes pantallas.
-* **IA (Google Gemini y Qwen)** → apoyo en generación de código, resolución de errores y propuestas de diseño.
+* **IA (Google Gemini, Copilot y Qwen)** → apoyo en generación de código, resolución de errores y propuestas de diseño.
 
 ---
 
 ## **Rol de Cada Miembro**
 
 * **Aranza** → Diseño de interfaz, estructura del proyecto, integración de funciones y documentación.
-* **IA (Gemini / Copilot)** → apoyo técnico, sugerencias de prompts, generación de código base y detección de errores.
+* **IA (Gemini / Copilot / Qwen(extra))** → apoyo técnico, sugerencias de prompts, generación de código base y detección de errores.
 * **Melany** → Realizó la misma app con la IA de GitHub Copilot.
-*  Cada una nos divimos el trabajo.
+*  Cada una nos divimos el trabajo, utilizamos los mismo prompts en los agentes, obtuvimos similares diseños.
 
 ---
 
