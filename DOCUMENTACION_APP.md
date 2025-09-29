@@ -4,7 +4,9 @@
 
 ## **Prompts Utilizados con IA**
 
-Durante el desarrollo utilicé varias herramientas de IA (Gemini y Qwen). Algunos de los prompts más útiles fueron:
+Durante el desarrollo utilicé varias herramientas de IA (Gemini, GitHub Copilot y Qwen(Ayudante extra)). Algunos de los prompts más útiles fueron:
+
+**Nota: Utilizamos los mismo prompt para las dos IAs. Y si nos funciono.**
 
 # **Lista de Prompts Iniciales y Resultados**
 
@@ -99,4 +101,5 @@ La experiencia de usar herramientas de IA como **Gemini, Qwen y Copilot** fue mu
 No siento que la IA haya hecho el trabajo por mí, sino que fue como un **mentor digital** que me iba dando ideas y ejemplos. Yo siempre tuve que validar, corregir y decidir qué quedaba mejor para mi proyecto y claro, también tomar encuenta las codificaciones que iba estructurando la IA, e ir aprendiendo poco a poco de lo que me generaba.
 
 En conclusión: **usar IA en desarrollo de apps no reemplaza al programador, sino que potencia la creatividad y acelera el aprendizaje.**
+
 
