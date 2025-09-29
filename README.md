@@ -9,8 +9,7 @@ Este proyecto consiste en una aplicación Android sencilla: permite que el usuar
 * **Android Studio** 
 * **Java**
 * **ConstraintLayout** → usado para diseñar una interfaz sencilla, flexible y adaptable a diferentes pantallas.
-* **Google Fonts** → para mejorar la estética y la legibilidad del texto.
-* **IA (Google Gemini)** → apoyo en generación de código, resolución de errores y propuestas de diseño.
+* **IA (Google Gemini y Qwen)** → apoyo en generación de código, resolución de errores y propuestas de diseño.
 
 ---
 
@@ -19,6 +18,7 @@ Este proyecto consiste en una aplicación Android sencilla: permite que el usuar
 * **Aranza** → Diseño de interfaz, estructura del proyecto, integración de funciones y documentación.
 * **IA (Gemini / Copilot)** → apoyo técnico, sugerencias de prompts, generación de código base y detección de errores.
 * **Melany** → Realizó la misma app con la IA de GitHub Copilot.
+*  Cada una nos divimos el trabajo.
 
 ---
 
