@@ -55,7 +55,10 @@ Esto evitó errores de permisos al hacer pruebas con llamadas de red.
 
 ## **4. Layout de la Pantalla Principal**
 **Prompt:**
-"Crea el layout XML para la pantalla principal de una app de frases de motivación usando ConstraintLayout. Debe tener un EditText centrado para ingresar la emoción, un Button centrado abajo que diga 'Generar Frase Motivadora', un TextView para mostrar la frase, otro TextView para mostrar el autor, Incluye un ProgressBar para indicar carga."
+Crea el layout XML para la pantalla principal de una app de frases de motivación usando ConstraintLayout. Debe tener un EditText centrado para ingresar la emoción, un Button centrado abajo que diga 'Generar Frase Motivadora', un TextView para mostrar la frase, otro TextView para mostrar el autor, Incluye un ProgressBar para indicar carga.
+
+**Resultado Obtenido:**
+Se visualizo cada uno en pantalla, texto a ingresar, boton , frase generada y autor.
 ---
 
 ## **Reflexión sobre los Prompts Iniciales**
@@ -94,5 +97,6 @@ La experiencia de usar herramientas de IA como **Gemini, Qwen y Copilot** fue mu
 No siento que la IA haya hecho el trabajo por mí, sino que fue como un **mentor digital** que me iba dando ideas y ejemplos. Yo siempre tuve que validar, corregir y decidir qué quedaba mejor para mi proyecto y claro, también tomar encuenta las codificaciones que iba estructurando la IA, e ir aprendiendo poco a poco de lo que me generaba.
 
 En conclusión: **usar IA en desarrollo de apps no reemplaza al programador, sino que potencia la creatividad y acelera el aprendizaje.**
+
 
 
