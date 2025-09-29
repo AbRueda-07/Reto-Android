@@ -57,8 +57,6 @@ Esto evitó errores de permisos al hacer pruebas con llamadas de red.
 
 **Prompt:**
 *"Crea el layout XML para la pantalla principal de una app de frases de motivación usando ConstraintLayout. Debe tener un EditText centrado para ingresar la emoción, un Button centrado abajo que diga 'Generar Frase Motivadora', un TextView para mostrar la frase, otro TextView para mostrar el autor, Incluye un ProgressBar para indicar carga."*
-
-
 ---
 
 ## **Reflexión sobre los Prompts Iniciales**
@@ -71,9 +69,8 @@ La IA me ayudó a ahorrar tiempo en tareas repetitivas (como configurar `build.g
 ## **Resultados Obtenidos**
 
 * **Código de interfaz:** Se generó un `activity_main.xml` básico usando `ConstraintLayout`, lo que facilitó la responsividad.
-* **Estilos visuales:** IA sugirió fuentes como *Poppins* y *Montserrat*, que mejoraron el look de la aplicación.
-* **Colores:** obtuve una paleta clara, equilibrada y motivadora que le dio un aire fresco al diseño.
-
+* **Se generarón frases motivadoras** de forma aleatoria con cada click en el botón de generar frases.
+* **Buena visualización** de lo generado, básico y sencillo para el usuario.
 ---
 
 ## **Problemas Encontrados y Soluciones con IA**
@@ -97,4 +94,5 @@ La experiencia de usar herramientas de IA como **Gemini, Qwen y Copilot** fue mu
 
 No siento que la IA haya hecho el trabajo por mí, sino que fue como un **mentor digital** que me iba dando ideas y ejemplos. Yo siempre tuve que validar, corregir y decidir qué quedaba mejor para mi proyecto y claro, también tomar encuenta las codificaciones que iba estructurando la IA, e ir aprendiendo poco a poco de lo que me generaba.
 
-En conclusión: **usar IA en desarrollo mde apps no reemplaza al programador, sino que potencia la creatividad y acelera el aprendizaje.**
+En conclusión: **usar IA en desarrollo de apps no reemplaza al programador, sino que potencia la creatividad y acelera el aprendizaje.**
+
