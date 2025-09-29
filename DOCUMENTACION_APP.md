@@ -1,7 +1,3 @@
-Entendido 🙌, aquí tienes tu mismo texto pero con todos los **títulos en negrita**, sin cambiar ni mejorar nada del contenido:
-
----
-
 # **Documentación del Proyecto**
 
 ---
@@ -103,3 +99,4 @@ La experiencia de usar herramientas de IA como **Gemini, Qwen y Copilot** fue mu
 No siento que la IA haya hecho el trabajo por mí, sino que fue como un **mentor digital** que me iba dando ideas y ejemplos. Yo siempre tuve que validar, corregir y decidir qué quedaba mejor para mi proyecto y claro, también tomar encuenta las codificaciones que iba estructurando la IA, e ir aprendiendo poco a poco de lo que me generaba.
 
 En conclusión: **usar IA en desarrollo de apps no reemplaza al programador, sino que potencia la creatividad y acelera el aprendizaje.**
+
